@@ -16,7 +16,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
  
  <br>
  
-  ### Minhas redes abaixo!
+  ### Minhas redes:
  
 <div> 
 
