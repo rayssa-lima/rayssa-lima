@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil RayssaLima 😁
+## Bem-vindo(a) ao perfil RayssaLima 
 
  <div>
    <a href="https://github.com/rayssa-lima">
